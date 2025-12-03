@@ -1,2 +1,2 @@
-# iac2025
+# aoc2025
 Repo for the 2025 Advent of Code
